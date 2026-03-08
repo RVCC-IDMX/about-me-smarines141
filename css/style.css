@@ -22,14 +22,36 @@ text-align:center;
     padding: 10px;
 }
 
+/*Hero Section*/
+
 #hero img {
 width: 300px;
 }
+
+/*Bio Section*/
 
 #bio {
     text-align:center;
 }
 
+/*Hobbies Section*/
+
 #hobbies ul li:nth-child(odd) {
 color:black;
+}
+
+/*Gallery*/
+
+#gallery {
+    border: 2px solid;#color:
+
+}
+
+#gallery img {
+    max-width: 300px;
+    height: auto;
+}
+
+#gallery figure {
+    text-align:center;
 }
