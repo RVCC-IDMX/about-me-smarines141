@@ -5,7 +5,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align:center;
 font: size 40pt;
 }
 
@@ -27,4 +28,8 @@ width: 300px;
 
 #bio {
     text-align:center;
+}
+
+#hobbies ul li:nth-child(odd) {
+color:black;
 }
