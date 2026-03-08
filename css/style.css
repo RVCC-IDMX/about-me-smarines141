@@ -43,7 +43,8 @@ color:black;
 /*Gallery*/
 
 #gallery {
-    border: 2px solid;#color:
+    border: 2px solid;color:black
+    margin-bottom:2rem;
 
 }
 
@@ -54,4 +55,13 @@ color:black;
 
 #gallery figure {
     text-align:center;
+}
+
+/*Literature */
+    #lit {
+    border: 2px solid;color:black
+    margin-bottom:2rem;
+    }
+#lit div {
+    padding:2rem;
 }
