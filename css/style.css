@@ -74,11 +74,11 @@ section#hobbies {
     }
 
     figure img {
-        width: 100%
+        width: 100%;
     }
 
     #lit div {
-        max-width: 100%
+        max-width: 100%;
         columns: 40rem;
     }
 }
