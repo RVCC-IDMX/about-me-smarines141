@@ -117,7 +117,46 @@ section#hobbies {
 
 #formElements{
     display:grid;
+    row-gap:.5em;
 }
 
+#contact {
+    padding: 1rem;
+    max-width: 600px;
+    margin: 2rem auto
+}
 
+fieldset{
+    border: 2px solid black;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+legend{
+    background-color; aquamarine;
+    Color: black;
+    padding: .5em;
+}
+#contact input, #contact textarea, #contact select, #contact button {
+    padding: .5em;
+    font-size: 1rem;
+}
+
+#contact ul{
+    list-style: none;
+    padding: 0px;
+}
+
+#contact li{
+    margin:1rem;
+}
+
+#contact button{
+    background-color; aquamarine;
+    Color: black;
+    border: 1px solid blue
+    max-width:400px;
+    width:50%;
+    justify-self: center;    
+}
 
