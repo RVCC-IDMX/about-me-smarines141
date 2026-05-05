@@ -110,5 +110,14 @@ section#hobbies {
     aspect-ratio: auto;
     text-align:center;
 
+
 }
+
+/*Contact Form*/
+
+#formElements{
+    display:grid;
+}
+
+
 
