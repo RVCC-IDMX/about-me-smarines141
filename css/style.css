@@ -1,7 +1,7 @@
 body {
      font-family: 'Courier New', Courier, monospace;
-    background-color: blanchedalmond;
-    color:blue;
+    background-color: #ffebcd;
+    color:#0000ff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -20,7 +20,7 @@ header {
 
 #hero,footer {
     border: 2px solid black;
-    background-color:aquamarine;
+    background-color:#7fffd4;
     text-align:center;
     padding: 10px;
 }
