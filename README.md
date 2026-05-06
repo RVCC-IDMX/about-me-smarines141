@@ -17,12 +17,18 @@ My name is Sean Lyons
 ## Short Video 
     This is where I learned to screen-record and upload it to my website by taking the iframe off Youtube and adding it to my index.html file. I also aligned the video to the center and ensured the aspect-ratio was not off. 
 ## Contact Form 
-    This is where I learned how to add a contact form for individuals to submit. I learned how to make a section required vs optional, how to add options to a drop down menu, adding background colors and font size/color. 
+    This is where I learned how to add a contact form for individuals to submit. I learned how to make a section required vs optional, how to add options to a drop down menu, adding background colors and font size/color.
+
+## Footer
+    In the footer, is where I added the copyright. I also added a link to my Github repository using a syntax code.
 
 # Project's Color Schemes 
     The main colors I used were blanched almond, rbg code of (255,235,205) and hex code #ffebcd AND Blue, rgb code (0,0,255) and hex code #0000ff. I also used a background color for the hero section, which was aquamarine and that rgb code is (127,255,212) and the hex code is #7fffd4.
 
 # Citations 
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/background-origin
+https://teamtreehouse.com/community/is-there-any-difference-between-the-backgroundclip-and-the-backgroundorigin-property#:~:text=The%20background%2Dorigin%20defines%20where,border%2C%20padding%20or%20content%20box.
+https://cssreference.io/backgrounds/#:~:text=%23background%2Drepeat,itself%20both%20horizontally%20and%20vertically.&text=background%2Drepeat:%20repeat%2Dx,will%20only%20repeat%20itself%20horizontally.&text=background%2Drepeat:%20repeat%2Dy,will%20only%20repeat%20itself%20vertically.&text=background%2Drepeat:%20no%2Drepeat,image%20will%20only%20appear%20once.
 
 # License 
 
